@@ -1,0 +1,8 @@
+-- View all tables
+.tables
+
+-- View the schema of a table (e.g., donors)
+.schema donors
+
+-- Select all records from a table (e.g., donors)
+SELECT * FROM donors;
